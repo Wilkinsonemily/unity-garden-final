@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Crop
+  - Animal
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactable
+  - Hittable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3958877927
+    locked: 0
+  - name: Water
+    uniqueID: 2448810623
+    locked: 0
+  - name: Ground
+    uniqueID: 4222918059
+    locked: 0
+  - name: Foreground
+    uniqueID: 2277177307
+    locked: 0
+  - name: Shadow
+    uniqueID: 3708482171
+    locked: 0
+  - name: Cliff
+    uniqueID: 658846189
+    locked: 0
+  - name: GroundDecor
+    uniqueID: 2739853205
+    locked: 0
+  - name: Props
+    uniqueID: 815296957
+    locked: 0
+  - name: TreeBase
+    uniqueID: 869905487
+    locked: 0
+  - name: Animal
+    uniqueID: 2214787923
+    locked: 0
+  - name: Characters
+    uniqueID: 1372739017
+    locked: 0
+  - name: TreeCover
+    uniqueID: 1210724713
+    locked: 0
+  - name: WalkBehindProps
+    uniqueID: 334960669
+    locked: 0
+  - name: TreeBody
+    uniqueID: 1740616709
+    locked: 0
+  - name: TopForeground
+    uniqueID: 2152725241
+    locked: 0
+  - name: UI
+    uniqueID: 3565539551
+    locked: 0
