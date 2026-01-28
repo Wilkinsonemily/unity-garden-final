@@ -1,13 +1,18 @@
 # 🌱 Unity Garden Project – Final Exam
 
-This project is a **2D garden simulation game** developed using **Unity** for a **final exam submission**.
+## 🎮 Play the Game (itch.io)
+👉 https://wilkinsonemily.itch.io/garden-unity-project
 
-The game demonstrates player interaction, AI behavior, crop harvesting, UI systems, and data persistence using JSON.
+---
+
+## Project Overview
+This project is a **2D garden simulation game** developed using **Unity** as a **final exam submission**.
+
+The game demonstrates player interaction, AI behavior, crop harvesting, user interface systems, and data persistence using **JSON**.
 
 ---
 
 ## 🎮 Gameplay Overview
-
 The player can:
 - Move freely around the garden
 - Attack skeleton enemies
@@ -50,7 +55,6 @@ The player can:
 ---
 
 ## 🌾 Crop System
-
 - Minimum **3 crop types** (Carrot, Cabbage, Beetroot)
 - Crops remain planted until dug by the player
 - Digging spawns collectible crop items
@@ -59,7 +63,6 @@ The player can:
 ---
 
 ## 📦 Inventory & Save System
-
 - Separate counter for each crop type
 - Inventory displayed on the top-left UI
 - Data is saved automatically using a **JSON file**
@@ -69,7 +72,6 @@ The player can:
 ---
 
 ## 🖥️ User Interface
-
 - **Welcome / Tutorial Panel**
   - Displays controls, developer info, and start button
   - Pauses the game when active
@@ -82,7 +84,6 @@ The player can:
 ---
 
 ## 🛠️ Technologies Used
-
 - Unity
 - C#
 - TextMeshPro
@@ -92,6 +93,7 @@ The player can:
 ---
 
 ## 👩‍💻 Author
-
 **Emily Wilkinson**  
-Unity Garden Project – Final Exam
+Unity Garden Project – Final Exam  
+
+🔗 itch.io: https://wilkinsonemily.itch.io/garden-unity-project
