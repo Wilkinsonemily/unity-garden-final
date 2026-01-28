@@ -22,8 +22,8 @@ The player can:
 
 | Action | Input |
 |------|------|
-| Move | WASD / Arrow Keys |
-| Attack | Mouse Button 0 |
+| Move | WASD |
+| Attack | Mouse Click or Space |
 | Dig | `E` |
 | Pause / Tutorial | `ESC` or `?` button |
 
